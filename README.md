@@ -39,7 +39,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="yourusername" /></a>
   <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="yourusername" /></a>
-  <a href="https://portfolio.yourdomain.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="yourportfolio" /></a>
+  <a href="https://deepakstar04.github.io/Deepak/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="yourportfolio" /></a>
 </p>
 
 ---
