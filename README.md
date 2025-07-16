@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- GitHub Profile README for a Web Developer -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakstar04" alt="deepakstar04" /></a> </p>
+<h1 align="center">Hi 👋, I'm [Deeoak Kumar]</h1>
+<h3 align="center">A passionate Web Developer from [Quality Nursing Services Pvt Ltd ]</h3>
 
-- 🔭 I’m currently looking FrontEnd Developer role on **E commerce website, Cross game etc**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5f207d1b009e2fd8be2c8f0560.gif">
 
-- 🌱 I’m currently learning **React js & Node js**
+- 🔭 I’m currently working on **[Your Project or Company]**
+- 🌱 I’m currently learning **React.js, Node.js, and MongoDB**
+- 👯 I’m looking to collaborate on **Open Source Web Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, or Firebase**
+- 📫 How to reach me: **codebrodev@gmail.com**
+- ⚡ Fun fact: I love designing pixel-perfect UIs and optimizing performance!
 
-- 📫 How to reach me **dkdeepak0408@gmail.com, 9507330804**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages and Tools:
+
 <p align="left">
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_deepakstar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_deepakstar04" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr dk indian vloger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr dk indian vloger" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,figma,vscode,github,google Analytics,chatgpt" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 📈 GitHub Stats:
 
-<!--
-**deepakstar04/deepakstar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakstar04&show_icons=true&theme=radical" alt="deepakstar04" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakstar04&layout=compact&theme=radical" alt="deepakstar04" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="yourusername" /></a>
+  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="yourusername" /></a>
+  <a href="https://portfolio.yourdomain.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white" alt="yourportfolio" /></a>
+</p>
+
+---
+
+### 🔥 My Projects:
+
+- 🔗 [Project 1 – React Admin Dashboard](https://github.com/deepakstar04/react-admin-dashboard)
+- 🔗 [Project 2 – Portfolio Website](https://github.com/deepakstar04/portfolio-website)
+- 🔗 [Project 3 – Firebase Auth App](https://github.com/deepakstar04/codebro-main)
+
+---
+
+<!-- Proudly created with ❤️ by [Codebro| Deepak Kuamr] -->
