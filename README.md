@@ -1,11 +1,11 @@
 <!-- GitHub Profile README for a Web Developer -->
 
-<h1 align="center">Hi 👋, I'm [Deeoak Kumar]</h1>
-<h3 align="center">A passionate Web Developer from [Quality Nursing Services Pvt Ltd ]</h3>
+<h1 align="center">Hi 👋, I'm Deeoak Kumar</h1>
+<h3 align="center">A passionate Web Developer from Quality Nursing Services Pvt Ltd </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5f207d1b009e2fd8be2c8f0560.gif">
 
-- 🔭 I’m currently working on **[Your Project or Company]**
+- 🔭 I’m currently working on **[Your Project and Company Both]**
 - 🌱 I’m currently learning **React.js, Node.js, and MongoDB**
 - 👯 I’m looking to collaborate on **Open Source Web Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, or Firebase**
