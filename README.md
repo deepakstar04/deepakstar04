@@ -1,10 +1,15 @@
 <!-- Profile Banner with Photo -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/178983970?v=4](https://images.unsplash.com/photo-1738845389070-7bb41a5f3467?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" width="99%" style="border-radius:10%" alt="Deepak Kumar">
+  <img src="[https://images.unsplash.com/photo-1738845389070-7bb41a5f3467?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D]" width="99%" style="border-radius:10%" alt="Deepak Kumar">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Founder @ CodeBro India</h3>
+<p align="center">
+  <a href="https://github.com/deepakstar04?tab=followers">
+    <img src="https://img.shields.io/github/followers/deepakstar04?label=Follow%20Me&style=social" alt="GitHub Follow">
+  </a>
+</p>
 
 ---
 
