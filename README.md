@@ -6,10 +6,22 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Founder @ CodeBro India</h3>
 <p align="center">
-  <a href="https://github.com/deepakstar04?tab=followers">
-    <img src="https://img.shields.io/github/followers/deepakstar04?label=Follow%20Me&style=social" alt="GitHub Follow">
+  <!-- GitHub Follow -->
+  <a href="https://github.com/deepakstar04?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/deepakstar04?label=Follow%20on%20GitHub&style=social" alt="GitHub Follow">
+  </a>
+  
+  <!-- Instagram Follow -->
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Follow">
+  </a>
+  
+  <!-- Facebook Follow -->
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow">
   </a>
 </p>
+
 
 ---
 
