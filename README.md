@@ -1,24 +1,25 @@
-# Hi there 👋, I'm [Your Name]  
+<!-- Profile Banner with Photo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/178983970?v=4" width="150" style="border-radius:50%" alt="Deepak Kumar">
+</p>
 
-🚀 **Full Stack Web Developer | Problem Solver | Tech Enthusiast**  
-
-💻 I love building scalable web applications, crafting clean code, and designing seamless user experiences.  
-From frontend design to backend logic, I enjoy the entire development lifecycle.  
-
----
-
-## 🔥 About Me
-- 🌐 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-- ⚡ Experienced with **REST APIs, GraphQL, Next.js, and TypeScript**  
-- 🎨 Passionate about **UI/UX, responsive design, and modern web trends**  
-- 📚 Always learning **cloud computing, DevOps, and AI integrations**  
-- 🌱 Open to collaboration on **open-source projects**  
+<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Founder @ CodeBro India</h3>
 
 ---
 
-## 🛠️ Tech Stack  
+## 👨‍💻 About Me  
+- 💼 I specialize in **Full Stack Web Development (MERN, Next.js, Node.js, MongoDB)**  
+- 🛠 Building modern, scalable & user-friendly applications  
+- 🌱 Currently exploring **DevOps, Cloud, and AI integration**  
+- ⚡ Founder of **CodeBro India** – Web, App, SEO, and Digital Marketing services  
+- 📫 Reach me at: **deepakstar04@gmail.com**  
 
-### **Frontend**
+---
+
+## 🚀 Tech Stack  
+
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,14 +28,14 @@ From frontend design to backend logic, I enjoy the entire development lifecycle.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Tools & Others**
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -43,30 +44,35 @@ From frontend design to backend logic, I enjoy the entire development lifecycle.
 
 ---
 
-## 📌 Featured Projects
-🔹 [**Project 1 - Social Media App**](#)  
-A full-featured social media platform with posts, likes, comments, and authentication. Built using **React, Node.js, MongoDB**.  
+## 📊 GitHub Analytics  
 
-🔹 [**Project 2 - E-commerce Website**](#)  
-Scalable online store with cart, payment gateway, and product management. Built with **Next.js, Express, MongoDB, Stripe API**.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakstar04&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakstar04&theme=radical" alt="streak" height="180"/>
+</p>
 
-🔹 [**Project 3 - Blogging Platform**](#)  
-A Medium-like blogging web app with rich text editor and user authentication. Built using **Quill.js, Express, MongoDB**.  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakstar04&theme=radical&no-frame=true&row=1&column=6" alt="trophies">
+</p>
 
 ---
 
-## 🌍 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)  
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-kumar-79a909224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dkdeepak0408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/deepakstar04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://codebroindia.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ _"Code is like humor. When you have to explain it, it’s bad."_  
+⭐ *"Turning ideas into reality through clean code & creative design!"*  
