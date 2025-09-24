@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfolio</title>
+  <style>
+    * {
+      margin: 0; padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    body {
+      background: #121212;
+      color: #f1f1f1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+
+    .profile {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .profile img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #444;
+    }
+
+    .name {
+      font-size: 1.8rem;
+      margin-top: 1rem;
+    }
+
+    .bio {
+      font-size: 1rem;
+      color: #aaa;
+      margin-top: 0.5rem;
+      max-width: 500px;
+      margin-inline: auto;
+    }
+
+    .socials {
+      margin-top: 1rem;
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+    }
+
+    .socials a {
+      color: #f1f1f1;
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .socials a:hover {
+      color: #00f7ff;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      width: 100%;
+      max-width: 1000px;
+    }
+
+    .project {
+      background: #1e1e1e;
+      padding: 1rem;
+      border-radius: 8px;
+      transition: transform 0.2s;
+      border: 1px solid #333;
+    }
+
+    .project:hover {
+      transform: translateY(-5px);
+    }
+
+    .project-title {
+      font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .project-desc {
+      font-size: 0.9rem;
+      color: #ccc;
+      margin-bottom: 0.5rem;
+    }
+
+    .project a {
+      color: #00f7ff;
+      font-size: 0.9rem;
+      text-decoration: none;
+    }
+
+    @media (max-width: 600px) {
+      .bio {
+        font-size: 0.9rem;
+      }
+
+      .project-title {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="profile" id="profile"></div>
+  <div class="projects" id="projects"></div>
+
+  <script>
+    const portfolioData = {
+      name: "Alex Doe",
+      bio: "Creative developer with a passion for web experiences and UI/UX.",
+      avatar: "https://i.pravatar.cc/150?img=3",
+      socials: [
+        { name: "GitHub", url: "https://github.com/alexdoe" },
+        { name: "LinkedIn", url: "https://linkedin.com/in/alexdoe" },
+        { name: "Twitter", url: "https://twitter.com/alexdoe" }
+      ],
+      projects: [
+        {
+          title: "Personal Portfolio",
+          description: "A modern portfolio website showcasing my work and skills.",
+          link: "https://alexdoe.dev"
+        },
+        {
+          title: "Task Manager App",
+          description: "A simple task management app with React and Firebase.",
+          link: "https://github.com/alexdoe/task-app"
+        },
+        {
+          title: "CSS Art Collection",
+          description: "Creative illustrations made using only CSS.",
+          link: "https://codepen.io/alexdoe"
+        },
+        {
+          title: "API Dashboard",
+          description: "Dashboard UI built with Chart.js and REST APIs.",
+          link: "https://alexdoe.dev/dashboard"
+        }
+      ]
+    };
+
+    // Render Profile
+    const profileContainer = document.getElementById("profile");
+    profileContainer.innerHTML = `
+      <img src="${portfolioData.avatar}" alt="Avatar" />
+      <div class="name">${portfolioData.name}</div>
+      <div class="bio">${portfolioData.bio}</div>
+      <div class="socials">
+        ${portfolioData.socials.map(s => `<a href="${s.url}" target="_blank">${s.name}</a>`).join('')}
+      </div>
+    `;
+
+    // Render Projects
+    const projectsContainer = document.getElementById("projects");
+    portfolioData.projects.forEach(p => {
+      const div = document.createElement('div');
+      div.className = "project";
+      div.innerHTML = `
+        <div class="project-title">${p.title}</div>
+        <div class="project-desc">${p.description}</div>
+        <a href="${p.link}" target="_blank">View Project</a>
+      `;
+      projectsContainer.appendChild(div);
+    });
+  </script>
+</body>
+</html>
