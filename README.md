@@ -65,11 +65,9 @@ Here are some top repositories we're proud of:
 
 Feel free to reach out if you want to collaborate, brainstorm, or hire me:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌍 [Portfolio Website](https://yourwebsite.com)
-- 📬 Email: your-email@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar040)
+- 🌍 [Portfolio Website](https://codebro.org)
+- 📬 Email: codebrodev@gmail.com
 
 ---
-
-_“Simplicity is the soul of efficiency.” – Austin Freeman_
 
