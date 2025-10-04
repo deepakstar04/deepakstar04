@@ -19,8 +19,7 @@
 - 🔭 Currently working on: Custom AI Chatbots and CRM-integrated solutions
 - 🌱 Learning advanced AI orchestration & cloud-native development
 - 👯 Open to collaborations on innovative SaaS products
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar040)
-- 📫 Reach me: codebrodev@gmail.com | .
+- 📫 Reach me: codebrodev@gmail.com | .🔗 [LinkedIn](https://www.linkedin.com/in/deepak-kumar040)
 - ⚡ Fun fact: I name my AI agents like Marvel characters 😄
 
 ---
